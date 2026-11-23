@@ -1,0 +1,7 @@
+# gateway-service/requirements.txt
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-dotenv>=1.0.0
+slowapi>=0.1.5
